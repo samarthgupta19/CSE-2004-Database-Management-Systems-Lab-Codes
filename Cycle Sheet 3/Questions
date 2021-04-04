@@ -76,27 +76,3 @@ parameter.
 2. Write a PL/SQL stored procedure to adjust the payment type of hospital bills
 to CASH if the patient id and amount details given as input.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Triggers:
-
-Add an attribute with patients table to store the age of the patients. Then answer
-the following question;
-
-1. Write a Trigger to find and fill the age of a patient whenever a patient record
-is inserted into patients table.
-Create a table EMP_SALARY with attributes ID, Basic, DA, HRA, Deduction,
-Net_Salary. Here, ID refers the Staff_ID of staff table. Treat ‘Net_Salary’ as a
-derived attribute and don’t insert a value through insert operation. The value for
-Net Salary can be calculated as follows;
-Net_Salary = Basic + DA + HRA – Deduction
-
-2. Write a Trigger to perform the following; whenever new staff is recruited
-and a designation is assigned, insert an appropriate record into
-EMP_SALARY table. Refer the following table for salary details.
-Designation Basic DA HRA Deduction
-Staff nurse 6000 2000 2000 2% of basic
-Head nurse 8000 2500 3000 2% of basic
-Technician 6000 2000 2000 2% of basic
-Senior technician 9000 2500 3500 2.5% of basic
-Junior attender 5000 1500 2000 2% of basic
-Senior attender 6500 2000 2000 2% of basic
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
