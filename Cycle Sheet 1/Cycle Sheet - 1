@@ -514,3 +514,4 @@ p) Delete the staff records that have designations ‘junior attender’ or ‘t
 SQL> DELETE FROM Staff WHERE Dt_No='D190'
 2 AND Category IN('Junior Attender','Technician');
 0 rows deleted.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
