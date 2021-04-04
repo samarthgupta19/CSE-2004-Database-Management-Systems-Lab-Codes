@@ -1,4 +1,4 @@
-CREATING ALL TABLES WITH APPROPRIATE CONSTRAINTS :-
+Q-1 : CREATING ALL TABLES WITH APPROPRIATE CONSTRAINTS :-
 
 a) Doctor
 SQL> CREATE TABLE Doctor(
@@ -172,7 +172,7 @@ SQL> alter TABLE Test_Results add constraint ttid_testres_fk FOREIGN KEY
 Table altered.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-INSERTING VALUES in Table: -
+Q-2 : INSERTING VALUES in Table: -
 a) Doctor
 SQL> INSERT INTO Doctor VALUES('D0001','Raghavan','M','10-JAN-1980','Cardiology','MBBS',8999345622,'Panvel Plaza','D001');
 1 row created.
@@ -350,7 +350,7 @@ SQL> INSERT INTO Test_Types VALUES('TT006','Urine Test',33,53,'Urine Sample','S0
 1 row created.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Adding some attributes and justifying the additions:
+Q-3 : Adding some attributes and justifying the additions:
 
 1. Doctor – The experience of a Doctor is very important for severe operations.
 SQL> alter TABLE Doctor add Doc_Exp_Yr NUMBER(2);
@@ -368,7 +368,7 @@ Table altered.
 SQL> alter TABLE Prescribed_Medicines add value NUMBER(5);
 Table altered.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-DML Queries for the following questions:
+Q-4 : DML Queries for the following questions:
 
 a) Find the details of all doctors.
 SQL> SELECT *FROM Doctor;
