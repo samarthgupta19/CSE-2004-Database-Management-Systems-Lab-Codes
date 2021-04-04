@@ -2,7 +2,7 @@
 # CSE-2004-Database-Management-Systems-Lab-Codes
 Database Management Systems (DBMS) - Lab Codes - CSE : 2004
 
-Check The Questions In The Attached PDF's :-
+Questions PDF's :-
 
 [Cycle Sheet-1.pdf](https://github.com/samarthgupta19/CSE-2004-Database-Management-Systems-Lab-Codes/files/6254944/Cycle.Sheet-1.pdf)
 
