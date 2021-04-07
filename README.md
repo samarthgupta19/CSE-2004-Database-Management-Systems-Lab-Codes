@@ -111,6 +111,7 @@ p) Delete the staff records that have designations ‘junior attender’ or ‘t
 and belongs to the department ‘D190’.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [Cycle Sheet-2.pdf](https://github.com/samarthgupta19/CSE-2004-Database-Management-Systems-Lab-Codes/files/6254946/Cycle.Sheet-2.pdf)\
+
 [Solutions](https://github.com/samarthgupta19/CSE-2004-Database-Management-Systems-Lab-Codes-MySQL/blob/main/Cycle%20Sheet%202/Cycle%20Sheet%20-%202)
 
 Questions:
@@ -233,6 +234,7 @@ UPPER(Doc_Name) FROM Doctor;
 ******************
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [Cycle Sheet-3.pdf](https://github.com/samarthgupta19/CSE-2004-Database-Management-Systems-Lab-Codes/files/6254947/Cycle.Sheet-3.pdf)\
+
 [Solutions](https://github.com/samarthgupta19/CSE-2004-Database-Management-Systems-Lab-Codes-MySQL/blob/main/Cycle%20Sheet%203/Cycle%20Sheet%20-%203)
 
 Questions:
