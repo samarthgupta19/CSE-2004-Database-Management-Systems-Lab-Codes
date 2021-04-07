@@ -229,9 +229,8 @@ Practice queries using DATE, NUMERIC, and CHARACTER functions. Refer
 DBMS_Lab_Reference_Material.pdf file. Try to upload at least two queries from
 each function category.
 
-Example: Display the doctor names in capital letters. SELECT
-UPPER(Doc_Name) FROM Doctor;
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [Cycle Sheet-3.pdf](https://github.com/samarthgupta19/CSE-2004-Database-Management-Systems-Lab-Codes/files/6254947/Cycle.Sheet-3.pdf)
 
 [Solutions](https://github.com/samarthgupta19/CSE-2004-Database-Management-Systems-Lab-Codes-MySQL/blob/main/Cycle%20Sheet%203/Cycle%20Sheet%20-%203)
