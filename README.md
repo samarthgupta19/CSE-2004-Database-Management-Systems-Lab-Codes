@@ -5,7 +5,7 @@ Database Management Systems (DBMS) - Lab Codes - CSE : 2004
 Questions PDF's :-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Cycle Sheet-1.pdf](https://github.com/samarthgupta19/CSE-2004-Database-Management-Systems-Lab-Codes/files/6254944/Cycle.Sheet-1.pdf)\
+[Cycle Sheet-1.pdf](https://github.com/samarthgupta19/CSE-2004-Database-Management-Systems-Lab-Codes/files/6254944/Cycle.Sheet-1.pdf)\\
 [Solutions](https://github.com/samarthgupta19/CSE-2004-Database-Management-Systems-Lab-Codes-MySQL/blob/main/Cycle%20Sheet%201/Cycle%20Sheet%20-%201)
 
 Hospital Database
