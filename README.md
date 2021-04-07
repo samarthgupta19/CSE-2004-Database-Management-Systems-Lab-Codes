@@ -5,7 +5,7 @@ Database Management Systems (DBMS) - Lab Codes - CSE : 2004
 Questions PDF's :-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Cycle Sheet-1.pdf](https://github.com/samarthgupta19/CSE-2004-Database-Management-Systems-Lab-Codes/files/6254944/Cycle.Sheet-1.pdf)
+[Cycle Sheet-1.pdf](https://github.com/samarthgupta19/CSE-2004-Database-Management-Systems-Lab-Codes/files/6254944/Cycle.Sheet-1.pdf)\
 [Solutions](https://github.com/samarthgupta19/CSE-2004-Database-Management-Systems-Lab-Codes-MySQL/blob/main/Cycle%20Sheet%201/Cycle%20Sheet%20-%201)
 
 Hospital Database
@@ -109,7 +109,7 @@ o) Update the contact number of all staffs who are in the category ‘Nurse’
 p) Delete the staff records that have designations ‘junior attender’ or ‘technician’
 and belongs to the department ‘D190’.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[Cycle Sheet-2.pdf](https://github.com/samarthgupta19/CSE-2004-Database-Management-Systems-Lab-Codes/files/6254946/Cycle.Sheet-2.pdf)
+[Cycle Sheet-2.pdf](https://github.com/samarthgupta19/CSE-2004-Database-Management-Systems-Lab-Codes/files/6254946/Cycle.Sheet-2.pdf)\
 [Solutions](https://github.com/samarthgupta19/CSE-2004-Database-Management-Systems-Lab-Codes-MySQL/blob/main/Cycle%20Sheet%202/Cycle%20Sheet%20-%202)
 
 Questions:
@@ -231,7 +231,7 @@ Example: Display the doctor names in capital letters. SELECT
 UPPER(Doc_Name) FROM Doctor;
 ******************
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[Cycle Sheet-3.pdf](https://github.com/samarthgupta19/CSE-2004-Database-Management-Systems-Lab-Codes/files/6254947/Cycle.Sheet-3.pdf)
+[Cycle Sheet-3.pdf](https://github.com/samarthgupta19/CSE-2004-Database-Management-Systems-Lab-Codes/files/6254947/Cycle.Sheet-3.pdf)\
 [Solutions](https://github.com/samarthgupta19/CSE-2004-Database-Management-Systems-Lab-Codes-MySQL/blob/main/Cycle%20Sheet%203/Cycle%20Sheet%20-%203)
 
 Questions:
