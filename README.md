@@ -110,7 +110,7 @@ and belongs to the department ‘D190’.
 [Cycle Sheet-2.pdf](https://github.com/samarthgupta19/CSE-2004-Database-Management-Systems-Lab-Codes/files/6254946/Cycle.Sheet-2.pdf)
 
 Questions:
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 DDL statements (ALTER, CONSTRAINT etc):
 
 1. Modify Hospital_Bill by adding an attribute consulting_physician and add
