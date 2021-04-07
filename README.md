@@ -231,7 +231,6 @@ each function category.
 
 Example: Display the doctor names in capital letters. SELECT
 UPPER(Doc_Name) FROM Doctor;
-******************
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [Cycle Sheet-3.pdf](https://github.com/samarthgupta19/CSE-2004-Database-Management-Systems-Lab-Codes/files/6254947/Cycle.Sheet-3.pdf)
 
