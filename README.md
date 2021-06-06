@@ -5,15 +5,15 @@
 Database Management Systems (DBMS) - Lab Codes - CSE : 2004
 
 [Cycle Sheet-1.pdf](https://github.com/samarthgupta19/CSE-2004-Database-Management-Systems-Lab-Codes/files/6254944/Cycle.Sheet-1.pdf) -->
-[Cycle Sheet-1 Codes](https://github.com/samarthgupta19/CSE-2004-Database-Management-Systems-Lab-Codes-MySQL/blob/main/Cycle%20Sheet%201/Cycle%20Sheet%20-%201)
+[Cycle Sheet-1 Codes](https://github.com/samarthgupta19/CSE-2004-Database-Management-Systems-Lab-Codes-MySQL/blob/main/Cycle%20Sheet%201/Cycle_Sheet_1.sql)
 
 
 [Cycle Sheet-2.pdf](https://github.com/samarthgupta19/CSE-2004-Database-Management-Systems-Lab-Codes/files/6254946/Cycle.Sheet-2.pdf) -->
-[Cycle Sheet-2 Codes](https://github.com/samarthgupta19/CSE-2004-Database-Management-Systems-Lab-Codes-MySQL/blob/main/Cycle%20Sheet%202/Cycle%20Sheet%20-%202)
+[Cycle Sheet-2 Codes](https://github.com/samarthgupta19/CSE-2004-Database-Management-Systems-Lab-Codes-MySQL/blob/main/Cycle%20Sheet%201/Cycle_Sheet_2.sql)
 
 
 [Cycle Sheet-3.pdf](https://github.com/samarthgupta19/CSE-2004-Database-Management-Systems-Lab-Codes/files/6254947/Cycle.Sheet-3.pdf) -->
-[Cycle Sheet-3 Codes](https://github.com/samarthgupta19/CSE-2004-Database-Management-Systems-Lab-Codes-MySQL/blob/main/Cycle%20Sheet%203/Cycle%20Sheet%20-%203)
+[Cycle Sheet-3 Codes](https://github.com/samarthgupta19/CSE-2004-Database-Management-Systems-Lab-Codes-MySQL/blob/main/Cycle%20Sheet%201/Cycle_Sheet_3.sql)
 
 # Questions
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
